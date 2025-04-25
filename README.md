@@ -2,22 +2,22 @@
 <img src="https://your-banner-url.com/banner.svg" width="100%" alt="Pascal's dev banner" />
 
 <h1 align="center">Hey 👋 I'm Pascal</h1>
-<h3 align="center">🎮 Game Dev | 🎓 Media Informatics | 🧠 Cognitive Design Enthusiast</h3>
+<h3 align="center">Game Developer | Media Informatics Student | Interactive Tech Enthusiast</h3>
 
 ---
 
-### 🎮 Who Am I?
+### Who Am I?
 
-I'm a Media Informatics student and game developer with a love for **prototyping fast and iterating hard**. I’ve worked on everything from small 2D experiments to 3D action roguelikes — including a Vampire Survivors-style game, reimagined in 3D.
+I'm a Media Informatics student and game developer who enjoys **prototyping quickly and iterating hard**. I've worked on projects ranging from small 2D experiments to 3D action roguelikes — including a **Vampire Survivors**-style game, reimagined in 3D.
 
-- 🎮 I build with Unity (C#) and Unreal Engine (Blueprints)
-- 🧪 Focused on gameplay feel, responsive controls, and tight loops
-- 🧰 Most of my projects are prototypes — I love exploring ideas quickly
-- 🧑‍🤝‍🧑 I’ve built games solo and in student teams — always up for collaboration
+- **Unity (C#)** and **Unreal Engine (Blueprints)** for game development
+- Focused on creating smooth gameplay, responsive controls, and strong game loops
+- Passionate about **fast prototyping**, experimenting with new ideas, and refining mechanics
+- Experienced in both solo development and team collaborations
 
 ---
 
-### 🛠 Tech I'm Comfortable With
+### Tech I'm Comfortable With
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
@@ -31,30 +31,26 @@ I'm a Media Informatics student and game developer with a love for **prototyping
 
 ---
 
-### 🚀 Highlight Project
+### Highlight Project
 
-**🧩 Multitasking Training Game**  
-A game designed to overload your brain — in the best way. Built with Unity, packed with fast-paced micro-challenges and a clean feedback system.
+**Multitasking Training Game**  
+A cognitive challenge game designed to test your multitasking skills under pressure. Built with Unity, featuring fast-paced mini-challenges and performance feedback.
 
-🎮 [Check it out on GitHub →]((https://github.com/ChariotGames/I-Cant-C-Sharp))
+[Check it out on GitHub →](https://github.com/ChariotGames/I-Cant-C-Sharp)
 
 ![Game Screenshot](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
 
 ---
 
-### 🎯 Random Pascal Stats
+### Fun Facts
 
-- 🧠 Favorite mechanic: time dilation under pressure  
-- ✨ Favorite bug: when the UI wouldn’t stop spinning (it looked cool)  
-- 🧪 Side-obsession: user feedback loops & microinteractions  
-- 🎮 Favorite game: *Inside* by Playdead
-
----
-
-### 📡 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
+- Favorite mechanic: time dilation under pressure
+- Most memorable bug: when the UI wouldn’t stop spinning — but it looked cool
+- Side interest: experimenting with user feedback loops and microinteractions
+- Favorite game: *Inside* by Playdead
 
 ---
 
+### Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
