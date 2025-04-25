@@ -46,7 +46,8 @@ I'm an International Media Informatics student with a passion for crafting **int
 📫 **Let’s Connect**
 
 - [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
-
+- [GitHub](https://github.com/yourusername)
+<!-- Add portfolio link when ready -->
 
 ---
 
