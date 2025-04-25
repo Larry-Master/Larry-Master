@@ -2,7 +2,7 @@
 <h3 align="center">🎮 Game Developer | 🌐 Web Explorer | 📚 Media Informatics Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"/>
 </p>
 
 ---
@@ -38,16 +38,6 @@ I'm an International Media Informatics student with a passion for crafting **int
 > A cognitive challenge game that tests and trains your multitasking ability with increasing complexity and time-pressure mechanics.
 
 ![Game Preview](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
-
----
-
-📊 **GitHub Stats**
-
-### 📅 My GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
