@@ -43,9 +43,10 @@ I'm an International Media Informatics student with a passion for crafting **int
 
 📊 **GitHub Stats**
 
+### 📅 My GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
