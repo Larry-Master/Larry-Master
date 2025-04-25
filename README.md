@@ -7,9 +7,5 @@ I'm an International Media Informatics student with a passion for game developme
 - **Web Development**: HTML, CSS, JavaScript, Node.js
 - **Databases**: SQL, MongoDB
 
-## Portfolio
-[Check out my portfolio!](https://radtke-pascal-portfolio.de/)
-
 ## Projects
 - [Multitasking Training Game](https://github.com/ChariotGames/I-Cant-C-Sharp)
-- [2D Game in Unity](Link to repository)
