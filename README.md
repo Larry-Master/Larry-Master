@@ -52,7 +52,7 @@ I'm an International Media Informatics student with a passion for crafting **int
 
 📫 **Let's Connect**
 
-- LinkedIn: [[linkedin.com/in/yourname](https://linkedin.com/in/yourname)](https://www.linkedin.com/in/pascal-radtke-280459360/)
+- LinkedIn: [[linkedin.com/in/yourname]((https://www.linkedin.com/in/pascal-radtke-280459360/))]
 
 
 ---
