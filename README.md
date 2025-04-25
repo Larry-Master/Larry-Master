@@ -47,15 +47,6 @@ A cognitive challenge game designed to test your multitasking skills under press
 
 ---
 
-### Fun Facts
-
-- Favorite mechanic: time dilation under pressure
-- Most memorable bug: when the UI wouldn’t stop spinning — but it looked cool
-- Side interest: experimenting with user feedback loops and microinteractions
-- Favorite game: *Inside* by Playdead
-
----
-
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
