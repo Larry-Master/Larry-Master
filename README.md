@@ -8,12 +8,12 @@
 
 ### 🎮 Who Am I?
 
-I'm a game developer with a soft spot for brainy mechanics and sleek interfaces. I study Media Informatics and love building things that people can **play with, learn from, or feel curious about**.
+I'm a Media Informatics student and game developer with a love for **prototyping fast and iterating hard**. I’ve worked on everything from small 2D experiments to 3D action roguelikes — including a Vampire Survivors-style game, reimagined in 3D.
 
-- 🧠 Into cognitive design + interactive experiences  
-- 🎮 Dev-ing in Unity (C#) & Unreal (Blueprints)  
-- 🌍 Also build small web things with Node.js & JS  
-- 🎯 Learning multiplayer, shaders, & procedural stuff
+- 🎮 I build with Unity (C#) and Unreal Engine (Blueprints)
+- 🧪 Focused on gameplay feel, responsive controls, and tight loops
+- 🧰 Most of my projects are prototypes — I love exploring ideas quickly
+- 🧑‍🤝‍🧑 I’ve built games solo and in student teams — always up for collaboration
 
 ---
 
@@ -36,7 +36,7 @@ I'm a game developer with a soft spot for brainy mechanics and sleek interfaces.
 **🧩 Multitasking Training Game**  
 A game designed to overload your brain — in the best way. Built with Unity, packed with fast-paced micro-challenges and a clean feedback system.
 
-🎮 [Check it out on GitHub →](https://github.com/yourusername/multitasking-training-game)
+🎮 [Check it out on GitHub →]((https://github.com/ChariotGames/I-Cant-C-Sharp))
 
 ![Game Screenshot](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
 
@@ -54,8 +54,7 @@ A game designed to overload your brain — in the best way. Built with Unity, pa
 ### 📡 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
-- 📁 [GitHub](https://github.com/yourusername)
 
 ---
 
-> 🎮 *“Play is the highest form of research.” – Albert Einstein*
+
