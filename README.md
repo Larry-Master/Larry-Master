@@ -50,3 +50,9 @@ A cognitive challenge game designed to test your multitasking skills under press
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
+
+---
+
+<img src="https://raw.githubusercontent.com/Larry-Master/Larry-Master/output/snake.svg" alt="Snake animation" />
+
+###
