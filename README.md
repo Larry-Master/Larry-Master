@@ -53,6 +53,6 @@ A cognitive challenge game designed to test your multitasking skills under press
 
 ---
 
-<img src="https://raw.githubusercontent.com/Larry-Master/Larry-Master/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ###
