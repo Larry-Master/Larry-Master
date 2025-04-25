@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pascal 👋
 
-<!--
-**Larry-Master/Larry-Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an International Media Informatics student with a passion for game development and interactive technologies. I specialize in creating games with Unity and Unreal Engine, and I enjoy building web apps with HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## Skills
+- **Game Development**: Unity (C#), Unreal Engine 5 (Blueprints)
+- **Web Development**: HTML, CSS, JavaScript, Node.js
+- **Databases**: SQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+[Check out my portfolio!](https://radtke-pascal-portfolio.de/)
+
+## Projects
+- [Multitasking Training Game](https://github.com/ChariotGames/I-Cant-C-Sharp)
+- [2D Game in Unity](Link to repository)
