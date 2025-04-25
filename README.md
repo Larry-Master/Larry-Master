@@ -1,10 +1,12 @@
 <!-- Clean full-width visual (replace this with a better quality custom banner or ask me to design one) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Pascal's dev banner" />
-</p>
+
 
 <h1 align="center">Hey 👋 I'm Pascal</h1>
 <h3 align="center">Game Developer | Media Informatics Student | Interactive Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Pascal's dev banner" />
+</p>
 
 ---
 
