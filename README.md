@@ -1,33 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Pascal</h1>
-<h3 align="center">🎮 Game Developer | 🌐 Web Explorer | 📚 Media Informatics Student</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="hero gif" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
-</p>
+<h1 align="center">Hi there 👋, I'm Pascal</h1>
+<h3 align="center">🎮 Game Developer | 🧪 Interactive Tech Enthusiast | 🎓 Media Informatics Student</h3>
 
 ---
 
 🧠 **About Me**
 
-I'm an International Media Informatics student with a passion for crafting **interactive experiences** — from game mechanics in Unity and Unreal Engine to web interfaces that feel alive.
+I'm an International Media Informatics student with a passion for crafting **interactive experiences** — from game mechanics in Unity and Unreal Engine to playful prototypes with JavaScript and Node.js.
 
-- 🎓 Currently studying at [Your University Name or Link]
 - 🎮 Making games with **Unity (C#)** and **Unreal Engine 5 (Blueprints)**
-- 🌐 Building clean and interactive apps with **HTML/CSS/JavaScript**
-- 🔍 Interested in the intersection of **technology, creativity, and psychology**
+- 🌐 Comfortable building apps with **JavaScript** and **Node.js**
+- 🧠 Exploring how tech can support **creativity, cognition, and expression**
+- 🎓 Currently studying at [Your University Name]
 
 ---
 
-🛠 **Technologies & Tools**
+🛠️ **Technologies & Tools**
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,csharp,js,nodejs,mongodb,sqlite,html&perline=6" />
+</p>
 
 ---
 
@@ -35,15 +28,24 @@ I'm an International Media Informatics student with a passion for crafting **int
 
 ### 🎮 [Multitasking Training Game](https://github.com/yourusername/multitasking-training-game)
 
-> A cognitive challenge game that tests and trains your multitasking ability with increasing complexity and time-pressure mechanics.
+> A cognitive challenge game that trains your brain to juggle multiple tasks under pressure — fast-paced, focused, and fun.
 
 ![Game Preview](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
 
 ---
 
-📫 **Let's Connect**
+🎯 **Fun Facts About Me**
 
-- LinkedIn: [[linkedin.com/in/yourname]((https://www.linkedin.com/in/pascal-radtke-280459360/))]
+- 🕹️ Favorite dev moment: building my first full scene in Unreal Engine and realizing it actually worked 🙌
+- 🧩 Most fun: experimenting with brain-training mechanics & UI reactions
+- 🛠️ Currently learning: multiplayer systems & procedural generation
+- ✨ Dream project: a game that feels like an interactive poem
+
+---
+
+📫 **Let’s Connect**
+
+- [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
 
 
 ---
