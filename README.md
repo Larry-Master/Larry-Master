@@ -2,8 +2,7 @@
 
 **A cognitive challenge designed to improve your multitasking abilities – built with Unity and C#.**
 
-![Game Preview](preview.gif)
-
+![Screenshot-2025-03-12-11-14-41 (1)](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
 
 ---
 
