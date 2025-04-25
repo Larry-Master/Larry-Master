@@ -1,5 +1,7 @@
 <!-- Clean full-width visual (replace this with a better quality custom banner or ask me to design one) -->
-<img src="https://your-banner-url.com/banner.svg" width="100%" alt="Pascal's dev banner" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Pascal's dev banner" />
+</p>
 
 <h1 align="center">Hey 👋 I'm Pascal</h1>
 <h3 align="center">Game Developer | Media Informatics Student | Interactive Tech Enthusiast</h3>
@@ -17,17 +19,19 @@ I'm a Media Informatics student and game developer who enjoys **prototyping quic
 
 ---
 
-### Tech I'm Comfortable With
+### 🛠 Technologies & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
+
 
 ---
 
