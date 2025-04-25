@@ -1,54 +1,61 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="hero gif" />
+<!-- Clean full-width visual (replace this with a better quality custom banner or ask me to design one) -->
+<img src="https://your-banner-url.com/banner.svg" width="100%" alt="Pascal's dev banner" />
 
-<h1 align="center">Hi there 👋, I'm Pascal</h1>
-<h3 align="center">🎮 Game Developer | 🧪 Interactive Tech Enthusiast | 🎓 Media Informatics Student</h3>
-
----
-
-🧠 **About Me**
-
-I'm an International Media Informatics student with a passion for crafting **interactive experiences** — from game mechanics in Unity and Unreal Engine to playful prototypes with JavaScript and Node.js.
-
-- 🎮 Making games with **Unity (C#)** and **Unreal Engine 5 (Blueprints)**
-- 🌐 Comfortable building apps with **JavaScript** and **Node.js**
-- 🧠 Exploring how tech can support **creativity, cognition, and expression**
-- 🎓 Currently studying at [Your University Name]
+<h1 align="center">Hey 👋 I'm Pascal</h1>
+<h3 align="center">🎮 Game Dev | 🎓 Media Informatics | 🧠 Cognitive Design Enthusiast</h3>
 
 ---
 
-🛠️ **Technologies & Tools**
+### 🎮 Who Am I?
+
+I'm a game developer with a soft spot for brainy mechanics and sleek interfaces. I study Media Informatics and love building things that people can **play with, learn from, or feel curious about**.
+
+- 🧠 Into cognitive design + interactive experiences  
+- 🎮 Dev-ing in Unity (C#) & Unreal (Blueprints)  
+- 🌍 Also build small web things with Node.js & JS  
+- 🎯 Learning multiplayer, shaders, & procedural stuff
+
+---
+
+### 🛠 Tech I'm Comfortable With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,csharp,js,nodejs,mongodb,sqlite,html&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 </p>
 
 ---
 
-🚀 **Featured Project**
+### 🚀 Highlight Project
 
-### 🎮 [Multitasking Training Game](https://github.com/yourusername/multitasking-training-game)
+**🧩 Multitasking Training Game**  
+A game designed to overload your brain — in the best way. Built with Unity, packed with fast-paced micro-challenges and a clean feedback system.
 
-> A cognitive challenge game that trains your brain to juggle multiple tasks under pressure — fast-paced, focused, and fun.
+🎮 [Check it out on GitHub →](https://github.com/yourusername/multitasking-training-game)
 
-![Game Preview](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
-
----
-
-🎯 **Fun Facts About Me**
-
-- 🕹️ Favorite dev moment: building my first full scene in Unreal Engine and realizing it actually worked 🙌
-- 🧩 Most fun: experimenting with brain-training mechanics & UI reactions
-- 🛠️ Currently learning: multiplayer systems & procedural generation
-- ✨ Dream project: a game that feels like an interactive poem
+![Game Screenshot](https://github.com/user-attachments/assets/37ab44a9-0777-470e-b9fd-623ab037f78c)
 
 ---
 
-📫 **Let’s Connect**
+### 🎯 Random Pascal Stats
 
-- [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
-- [GitHub](https://github.com/yourusername)
-<!-- Add portfolio link when ready -->
+- 🧠 Favorite mechanic: time dilation under pressure  
+- ✨ Favorite bug: when the UI wouldn’t stop spinning (it looked cool)  
+- 🧪 Side-obsession: user feedback loops & microinteractions  
+- 🎮 Favorite game: *Inside* by Playdead
 
 ---
 
-🧩 *“Play is the highest form of research.”* – Albert Einstein
+### 📡 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pascal-radtke-280459360/)
+- 📁 [GitHub](https://github.com/yourusername)
+
+---
+
+> 🎮 *“Play is the highest form of research.” – Albert Einstein*
