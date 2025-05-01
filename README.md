@@ -1,7 +1,7 @@
 <!-- Clean full-width visual (replace this with a better quality custom banner or ask me to design one) -->
 
 
-<h1 align="center">Hey 👋 I'm Pascal</h1>
+<h1 align="center">Hey 👋 I'm Larry</h1>
 <h3 align="center">Game Developer | Media Informatics Student | Interactive Tech Enthusiast</h3>
 
 <p align="center">
