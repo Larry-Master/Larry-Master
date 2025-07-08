@@ -12,7 +12,7 @@
 
 ### Who Am I?
 
-I'm a Media Informatics student and game developer who enjoys **prototyping quickly and iterating hard**. I've worked on projects ranging from small 2D experiments to 3D action roguelikes — including a **Vampire Survivors**-style game, reimagined in 3D.
+I'm a Media Informatics student and game developer who enjoys **prototyping quickly**. I've worked on projects ranging from small 2D experiments to 3D action roguelikes — including a **Vampire Survivors**-style game, reimagined in 3D.
 
 - **Unity (C#)** and **Unreal Engine (Blueprints)** for game development
 - Focused on creating smooth gameplay, responsive controls, and strong game loops
