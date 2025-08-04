@@ -11,12 +11,17 @@
 
 ### Who Am I?
 
-I'm a Media Informatics student and game developer who enjoys **prototyping quickly**. I've worked on projects ranging from small 2D experiments to 3D action roguelikes — including a **Vampire Survivors**-style game, reimagined in 3D.
+I'm a Media Informatics student, game developer, and web developer who enjoys prototyping quickly. I work on projects ranging from small experimental games to scalable, full‑stack web applications.
 
-- **Unity (C#)** and **Unreal Engine (Blueprints)** for game development
-- Focused on creating smooth gameplay, responsive controls, and strong game loops
-- Passionate about **fast prototyping**, experimenting with new ideas, and refining mechanics
-- Experienced in both solo development and team collaborations
+Unity (C#) and Unreal Engine (Blueprints) for game development
+
+Next.js, MongoDB, and Docker for building responsive, modern web apps
+
+Skilled at creating smooth gameplay, intuitive controls, and engaging user experiences
+
+Strong focus on fast prototyping, testing ideas, and refining mechanics in both games and web apps
+
+Experienced in both solo development and collaborative team projects
 
 ---
 
