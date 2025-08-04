@@ -13,15 +13,11 @@
 
 I'm a Media Informatics student, game developer, and web developer who enjoys prototyping quickly. I work on projects ranging from small experimental games to scalable, full‑stack web applications.
 
-Unity (C#) and Unreal Engine (Blueprints) for game development
-
-Next.js, MongoDB, and Docker for building responsive, modern web apps
-
-Skilled at creating smooth gameplay, intuitive controls, and engaging user experiences
-
-Strong focus on fast prototyping, testing ideas, and refining mechanics in both games and web apps
-
-Experienced in both solo development and collaborative team projects
+- **Unity (C#)** and **Unreal Engine (Blueprints)** for game development  
+- **Next.js**, **MongoDB**, and **Docker** for building responsive, modern web apps  
+- Skilled at creating smooth gameplay, intuitive controls, and engaging user experiences  
+- Focused on **fast prototyping**, testing ideas, and refining mechanics in both games and web apps  
+- Experienced in both solo development and collaborative team projects  
 
 ---
 
